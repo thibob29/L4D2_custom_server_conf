@@ -1,0 +1,163 @@
+"info"
+{
+	"Chernobyl: Chapter One"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"City 17 v3.2"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Crash Bandicoot: Left 4 Dead 2 (2020)"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Crash Bandicoot: Left 4 Dead 2 (2013)"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Day Break"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Dead Before Dawn Dc"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Deadcity Ii"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Dark Carnival Remix"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Glubtastic"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Glubtastic 2"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Glubtastic 3"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Glubtastic 4"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Glubtastic: Back 4 Glub"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Haunted Forest"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Indiana Jones and the Temple of Zombies"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Diescraper Redux 3.62"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Death from Above"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Questionable Ethics: Combined"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Redemptionii"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Resident Evil 3"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Time to Die"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Left 4 Invasion: Outer Space!"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Cambalache - Buenos Aires"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Cambalache 2 - Buenos Aires"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Deadcenterstorm"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Devil Mountain"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Deconstruction"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Nach der Untoten"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"No Mercy: Rehab"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Nomercystorm"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Sunrise Carnival"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+	"Urban Flight"
+	{
+		"group"		"0"
+		"mark"		"0"
+	}
+}

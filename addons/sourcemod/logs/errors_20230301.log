@@ -1,0 +1,4 @@
+L 03/01/2023 - 00:45:42: SourceMod error session started
+L 03/01/2023 - 00:45:42: Info (map "c5m1_waterfront") (file "/home/tf2serv/serverfiles/left4dead2/addons/sourcemod/logs/errors_20230301.log")
+L 03/01/2023 - 00:45:42: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/01/2023 - 00:46:12: Error log file session closed.

@@ -1,0 +1,1654 @@
+"campaigns"
+{
+	"Cambalache - Buenos Aires"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"bsas_m1_barrios"
+				"DisplayName"		"Barrios"
+			}
+			"2"
+			{
+				"Map"		"bsas_m2_adrogue"
+				"DisplayName"		"Adrogué"
+			}
+			"3"
+			{
+				"Map"		"bsas_m3_capital"
+				"DisplayName"		"Capital Federal"
+			}
+			"4"
+			{
+				"Map"		"bsas_m4_costanera"
+				"DisplayName"		"Reserva Ecologica"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"bsas_m1_barrios"
+				"DisplayName"		"Barrios"
+			}
+			"2"
+			{
+				"Map"		"bsas_m2_adrogue"
+				"DisplayName"		"Adrogué"
+			}
+			"3"
+			{
+				"Map"		"bsas_m3_capital"
+				"DisplayName"		"Capital Federal"
+			}
+			"4"
+			{
+				"Map"		"bsas_m4_costanera"
+				"DisplayName"		"Reserva Ecologica"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"bsas_m3_capital"
+				"DisplayName"		"Calles de Capital"
+			}
+			"2"
+			{
+				"Map"		"bsas_m4_costanera"
+				"DisplayName"		"Reserva Ecologica"
+			}
+		}
+	}
+	"Cambalache 2 - Buenos Aires"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"bsas2_m1_barrios"
+				"DisplayName"		"Barrios"
+			}
+			"2"
+			{
+				"Map"		"bsas2_m2_adrogue"
+				"DisplayName"		"Adrogué"
+			}
+			"3"
+			{
+				"Map"		"bsas2_m3_constitucion"
+				"DisplayName"		"Constitucion"
+			}
+			"4"
+			{
+				"Map"		"bsas2_m4_obelisco"
+				"DisplayName"		"Obelisco"
+			}
+			"5"
+			{
+				"Map"		"bsas2_m5_retiro"
+				"DisplayName"		"Retiro"
+			}
+			"6"
+			{
+				"Map"		"bsas2_m6_costanera"
+				"DisplayName"		"Reserva Ecologica"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"bsas2_m1_barrios"
+				"DisplayName"		"Barrios"
+			}
+			"2"
+			{
+				"Map"		"bsas2_m2_adrogue"
+				"DisplayName"		"Adrogué"
+			}
+			"3"
+			{
+				"Map"		"bsas2_m3_constitucion"
+				"DisplayName"		"Constitucion"
+			}
+			"4"
+			{
+				"Map"		"bsas2_m4_obelisco"
+				"DisplayName"		"Obelisco"
+			}
+			"5"
+			{
+				"Map"		"bsas2_m5_retiro"
+				"DisplayName"		"Retiro"
+			}
+			"6"
+			{
+				"Map"		"bsas2_m6_costanera"
+				"DisplayName"		"Reserva Ecologica"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"bsas2_m4_obelisco"
+				"DisplayName"		"Calles de Capital"
+			}
+			"2"
+			{
+				"Map"		"bsas2_m6_costanera"
+				"DisplayName"		"Reserva Ecologica"
+			}
+		}
+	}
+	"Chernobyl: Chapter One"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"ch01_jupiter"
+				"DisplayName"		"Jupiter Factory"
+			}
+			"2"
+			{
+				"Map"		"ch02_pripyat01"
+				"DisplayName"		"Swimming Pool"
+			}
+			"3"
+			{
+				"Map"		"ch03_pripyat02"
+				"DisplayName"		"Central Pripyat"
+			}
+			"4"
+			{
+				"Map"		"ch04_pripyat03"
+				"DisplayName"		"School #3"
+			}
+			"5"
+			{
+				"Map"		"ch05_pripyat04"
+				"DisplayName"		"Hospital"
+			}
+		}
+	}
+	"City 17 v3.2"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"l4d2_city17_01"
+				"DisplayName"		"Tunnels"
+			}
+			"2"
+			{
+				"Map"		"l4d2_city17_02"
+				"DisplayName"		"To the surface"
+			}
+			"3"
+			{
+				"Map"		"l4d2_city17_03"
+				"DisplayName"		"Streets"
+			}
+			"4"
+			{
+				"Map"		"l4d2_city17_04"
+				"DisplayName"		"Hospital"
+			}
+			"5"
+			{
+				"Map"		"l4d2_city17_05"
+				"DisplayName"		"Trainstation"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"l4d2_city17_01"
+				"DisplayName"		"Tunnels"
+			}
+			"2"
+			{
+				"Map"		"l4d2_city17_02"
+				"DisplayName"		"To the surface"
+			}
+			"3"
+			{
+				"Map"		"l4d2_city17_03"
+				"DisplayName"		"Streets"
+			}
+			"4"
+			{
+				"Map"		"l4d2_city17_04"
+				"DisplayName"		"Hospital"
+			}
+			"5"
+			{
+				"Map"		"l4d2_city17_05"
+				"DisplayName"		"Trainstation"
+			}
+		}
+	}
+	"Crash Bandicoot: Left 4 Dead 2 (2020)"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"CrashBandicootMap1"
+				"DisplayName"		"Gutted"
+			}
+			"2"
+			{
+				"Map"		"CrashBandicootMap2"
+				"DisplayName"		"Faithless"
+			}
+			"3"
+			{
+				"Map"		"CrashBandicootMap3"
+				"DisplayName"		"Flashback"
+			}
+			"4"
+			{
+				"Map"		"CrashBandicootMap4"
+				"DisplayName"		"N-crypted"
+			}
+			"5"
+			{
+				"Map"		"CrashBandicootMap5"
+				"DisplayName"		"Extinct"
+			}
+			"6"
+			{
+				"Map"		"CrashBandicootMap6"
+				"DisplayName"		"Cortex"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"CrashBandicootMap1"
+				"DisplayName"		"Gutted"
+			}
+			"2"
+			{
+				"Map"		"CrashBandicootMap2"
+				"DisplayName"		"Faithless"
+			}
+			"3"
+			{
+				"Map"		"CrashBandicootMap3"
+				"DisplayName"		"Flashback"
+			}
+			"4"
+			{
+				"Map"		"CrashBandicootMap4"
+				"DisplayName"		"N-crypted"
+			}
+			"5"
+			{
+				"Map"		"CrashBandicootMap5"
+				"DisplayName"		"Extinct"
+			}
+			"6"
+			{
+				"Map"		"CrashBandicootMap6"
+				"DisplayName"		"Cortex"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"crashbandicootsurvival1"
+				"DisplayName"		"Tiny Arena"
+			}
+			"2"
+			{
+				"Map"		"crashbandicootsurvival2"
+				"DisplayName"		"Temple of Cortex"
+			}
+			"3"
+			{
+				"Map"		"crashbandicootsurvival3"
+				"DisplayName"		"Courtyard Massacre"
+			}
+		}
+	}
+	"Crash Bandicoot: Left 4 Dead 2 (2013)"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"CrashBandicootMap1_classic"
+				"DisplayName"		"One Dump To The Next"
+			}
+			"2"
+			{
+				"Map"		"CrashBandicootMap2_classic"
+				"DisplayName"		"A Knight Wasted"
+			}
+			"3"
+			{
+				"Map"		"CrashBandicootMap3_classic"
+				"DisplayName"		"Slight Drizzle"
+			}
+			"4"
+			{
+				"Map"		"CrashBandicootMap4_classic"
+				"DisplayName"		"Intoxicated"
+			}
+			"5"
+			{
+				"Map"		"CrashBandicootMap5_classic"
+				"DisplayName"		"Burn Freezer"
+			}
+			"6"
+			{
+				"Map"		"CrashBandicootMap6_classic"
+				"DisplayName"		"Cortexvortex"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"CrashBandicootMap1_classic"
+				"DisplayName"		"One Dump To The Next"
+			}
+			"2"
+			{
+				"Map"		"CrashBandicootMap2_classic"
+				"DisplayName"		"A Knight Wasted"
+			}
+			"3"
+			{
+				"Map"		"CrashBandicootMap3_classic"
+				"DisplayName"		"Slight Drizzle"
+			}
+			"4"
+			{
+				"Map"		"CrashBandicootMap4_classic"
+				"DisplayName"		"Intoxicated"
+			}
+			"5"
+			{
+				"Map"		"CrashBandicootMap5_classic"
+				"DisplayName"		"Burn Freezer"
+			}
+			"6"
+			{
+				"Map"		"CrashBandicootMap6_classic"
+				"DisplayName"		"Cortexvortex"
+			}
+		}
+	}
+	"Dead Before Dawn Dc"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"l4d_dbd2dc_anna_is_gone"
+				"DisplayName"		"Anna is gone"
+			}
+			"2"
+			{
+				"Map"		"l4d_dbd2dc_the_mall"
+				"DisplayName"		"The mall"
+			}
+			"3"
+			{
+				"Map"		"l4d_dbd2dc_clean_up"
+				"DisplayName"		"Clean up"
+			}
+			"4"
+			{
+				"Map"		"l4d_dbd2dc_undead_center"
+				"DisplayName"		"Undead center"
+			}
+			"5"
+			{
+				"Map"		"l4d_dbd2dc_new_dawn"
+				"DisplayName"		"New dawn"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"l4d_dbd2dc_anna_is_gone"
+				"DisplayName"		"Anna is gone"
+			}
+			"2"
+			{
+				"Map"		"l4d_dbd2dc_the_mall"
+				"DisplayName"		"The mall"
+			}
+			"3"
+			{
+				"Map"		"l4d_dbd2dc_clean_up"
+				"DisplayName"		"Clean up"
+			}
+			"4"
+			{
+				"Map"		"l4d_dbd2dc_undead_center"
+				"DisplayName"		"Undead center"
+			}
+			"5"
+			{
+				"Map"		"l4d_dbd2dc_new_dawn"
+				"DisplayName"		"New dawn"
+			}
+		}
+	}
+	"Deadcenterstorm"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"c1m1_hotel_storm"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C1M1"
+			}
+			"2"
+			{
+				"Map"		"c1m2_streets_storm"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C1M2"
+			}
+			"3"
+			{
+				"Map"		"c1m3_mall_storm"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C1M3"
+			}
+			"4"
+			{
+				"Map"		"c1m4_atrium_storm"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C1M4"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"c1m1_hotel_storm"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C1M1"
+			}
+			"2"
+			{
+				"Map"		"c1m2_streets_storm"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C1M2"
+			}
+			"3"
+			{
+				"Map"		"c1m3_mall_storm"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C1M3"
+			}
+			"4"
+			{
+				"Map"		"c1m4_atrium_storm"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C1M4"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"c1m4_atrium_storm"
+				"DisplayName"		"#L4D360UI_LevelName_SURVIVAL_C1M4"
+			}
+			"2"
+			{
+				"Map"		"c1m4_atrium_storm"
+				"DisplayName"		"#L4D360UI_LevelName_SCAVENGE_C1M4"
+			}
+		}
+	}
+	"Deadcity Ii"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"l4d2_deadcity01_riverside"
+				"DisplayName"		"Riverside City"
+			}
+			"2"
+			{
+				"Map"		"l4d2_deadcity02_backalley"
+				"DisplayName"		"Back Alley"
+			}
+			"3"
+			{
+				"Map"		"l4d2_deadcity03_bridge"
+				"DisplayName"		"Draw Bridge"
+			}
+			"4"
+			{
+				"Map"		"l4d2_deadcity04_outpost"
+				"DisplayName"		"The Outpost"
+			}
+			"5"
+			{
+				"Map"		"l4d2_deadcity05_plant"
+				"DisplayName"		"Water Plant"
+			}
+			"6"
+			{
+				"Map"		"l4d2_deadcity06_station"
+				"DisplayName"		"Subway Station"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"l4d2_deadcity01_riverside"
+				"DisplayName"		"Riverside City"
+			}
+			"2"
+			{
+				"Map"		"l4d2_deadcity02_backalley"
+				"DisplayName"		"Back Alley"
+			}
+			"3"
+			{
+				"Map"		"l4d2_deadcity03_bridge"
+				"DisplayName"		"Draw Bridge"
+			}
+			"4"
+			{
+				"Map"		"l4d2_deadcity04_outpost"
+				"DisplayName"		"The Outpost"
+			}
+			"5"
+			{
+				"Map"		"l4d2_deadcity05_plant"
+				"DisplayName"		"Water Plant"
+			}
+			"6"
+			{
+				"Map"		"l4d2_deadcity06_station"
+				"DisplayName"		"Subway Station"
+			}
+		}
+	}
+	"Devil Mountain"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"dm1_suburbs"
+				"DisplayName"		"Suburbs"
+			}
+			"2"
+			{
+				"Map"		"dm2_blastzone"
+				"DisplayName"		"Blast Zone"
+			}
+			"3"
+			{
+				"Map"		"dm3_canyon"
+				"DisplayName"		"Canyon"
+			}
+			"4"
+			{
+				"Map"		"dm4_caves"
+				"DisplayName"		"Caves"
+			}
+			"5"
+			{
+				"Map"		"dm5_summit"
+				"DisplayName"		"Summit"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"dm1_suburbs"
+				"DisplayName"		"Suburbs"
+			}
+			"2"
+			{
+				"Map"		"dm5_summit"
+				"DisplayName"		"Summit"
+			}
+		}
+	}
+	"Dark Carnival Remix"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"dkr_m1_motel"
+				"DisplayName"		"The Motel"
+			}
+			"2"
+			{
+				"Map"		"dkr_m2_carnival"
+				"DisplayName"		"The Carnival"
+			}
+			"3"
+			{
+				"Map"		"dkr_m3_tunneloflove"
+				"DisplayName"		"The Tunnel of Love"
+			}
+			"4"
+			{
+				"Map"		"dkr_m4_ferris"
+				"DisplayName"		"The Ferris Wheel"
+			}
+			"5"
+			{
+				"Map"		"dkr_m5_stadium"
+				"DisplayName"		"The Stadium"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"dkr_m1_motel"
+				"DisplayName"		"The Motel"
+			}
+			"2"
+			{
+				"Map"		"dkr_m2_carnival"
+				"DisplayName"		"The Carnival"
+			}
+			"3"
+			{
+				"Map"		"dkr_m3_tunneloflove"
+				"DisplayName"		"The Tunnel of Love"
+			}
+			"4"
+			{
+				"Map"		"dkr_m4_ferris"
+				"DisplayName"		"The Ferris Wheel"
+			}
+			"5"
+			{
+				"Map"		"dkr_m5_stadium"
+				"DisplayName"		"The Stadium"
+			}
+		}
+	}
+	"Glubtastic"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"Glubtastic"
+				"DisplayName"		"Glub Tower"
+			}
+			"2"
+			{
+				"Map"		"Glubtastic_2"
+				"DisplayName"		"Glub-o-coaster"
+			}
+			"3"
+			{
+				"Map"		"Glubtastic_3"
+				"DisplayName"		"Glub Highway"
+			}
+			"4"
+			{
+				"Map"		"Glubtastic_4"
+				"DisplayName"		"Glub's Sewer Hole"
+			}
+			"5"
+			{
+				"Map"		"Glubtastic_5"
+				"DisplayName"		"The Final Glub"
+			}
+		}
+	}
+	"Glubtastic 2"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"Glubtastic2_1"
+				"DisplayName"		"Glub Graves"
+			}
+			"2"
+			{
+				"Map"		"Glubtastic2_2"
+				"DisplayName"		"Glub's Blackfriday Blowout"
+			}
+			"3"
+			{
+				"Map"		"Glubtastic2_3"
+				"DisplayName"		"Glub City"
+			}
+			"4"
+			{
+				"Map"		"Glubtastic2_4"
+				"DisplayName"		"Glub In The Dark"
+			}
+			"5"
+			{
+				"Map"		"Glubtastic2_5"
+				"DisplayName"		"Knee Deep in the Glub"
+			}
+			"6"
+			{
+				"Map"		"Glubtastic2_6"
+				"DisplayName"		"Glubzilla"
+			}
+		}
+	}
+	"Glubtastic 3"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"Glubtastic3_1"
+				"DisplayName"		"Glubs on Ice"
+			}
+			"2"
+			{
+				"Map"		"Glubtastic3_2"
+				"DisplayName"		"Pimp my Glub"
+			}
+			"3"
+			{
+				"Map"		"Glubtastic3_3"
+				"DisplayName"		"Glub Forest"
+			}
+			"4"
+			{
+				"Map"		"Glubtastic3_vince"
+				"DisplayName"		"The Sis Fragments"
+			}
+			"5"
+			{
+				"Map"		"Glubtastic3_4"
+				"DisplayName"		"The Glubtastic Express"
+			}
+			"6"
+			{
+				"Map"		"Glubtastic3_5"
+				"DisplayName"		"The Master Sis"
+			}
+		}
+	}
+	"Glubtastic 4"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"glubtastic4_1"
+				"DisplayName"		"Airforce Glub"
+			}
+			"2"
+			{
+				"Map"		"glubtastic4_2"
+				"DisplayName"		"Glub Caverns"
+			}
+			"3"
+			{
+				"Map"		"glubtastic4_3"
+				"DisplayName"		"Glubtastic Inc."
+			}
+			"4"
+			{
+				"Map"		"glubtastic4_4"
+				"DisplayName"		"Sis Dimension"
+			}
+			"5"
+			{
+				"Map"		"glubtastic4_5"
+				"DisplayName"		"Sis Wastes"
+			}
+			"6"
+			{
+				"Map"		"glubtastic4_6"
+				"DisplayName"		"The Sis Factory"
+			}
+			"7"
+			{
+				"Map"		"glubtastic4_7"
+				"DisplayName"		"The Sis King"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"glubtastic4_1"
+				"DisplayName"		"Airforce Glub"
+			}
+			"2"
+			{
+				"Map"		"glubtastic4_2"
+				"DisplayName"		"Glub Caverns"
+			}
+			"3"
+			{
+				"Map"		"glubtastic4_3"
+				"DisplayName"		"Glubtastic Inc."
+			}
+			"4"
+			{
+				"Map"		"glubtastic4_4"
+				"DisplayName"		"Sis Dimension"
+			}
+			"5"
+			{
+				"Map"		"glubtastic4_5"
+				"DisplayName"		"Sis Wastes"
+			}
+			"6"
+			{
+				"Map"		"glubtastic4_6"
+				"DisplayName"		"The Sis Factory"
+			}
+			"7"
+			{
+				"Map"		"glubtastic4_7"
+				"DisplayName"		"The Sis King"
+			}
+		}
+	}
+	"Glubtastic: Back 4 Glub"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"Back4Glub"
+				"DisplayName"		"Britland"
+			}
+		}
+	}
+	"Haunted Forest"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"hf01_theforest"
+				"DisplayName"		"The Forest"
+			}
+			"2"
+			{
+				"Map"		"hf02_thesteeple"
+				"DisplayName"		"The Steeple"
+			}
+			"3"
+			{
+				"Map"		"hf03_themansion"
+				"DisplayName"		"The Mansion"
+			}
+			"4"
+			{
+				"Map"		"hf04_escape"
+				"DisplayName"		"The Tunnel"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"hf01_theforest"
+				"DisplayName"		"The Forest"
+			}
+			"2"
+			{
+				"Map"		"hf02_thesteeple"
+				"DisplayName"		"The Steeple"
+			}
+			"3"
+			{
+				"Map"		"hf03_themansion"
+				"DisplayName"		"The Mansion"
+			}
+			"4"
+			{
+				"Map"		"hf04_escape"
+				"DisplayName"		"The Tunnel"
+			}
+		}
+	}
+	"Indiana Jones and the Temple of Zombies"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"indiana_adventure"
+				"DisplayName"		"The Line"
+			}
+			"2"
+			{
+				"Map"		"indiana_adventure2"
+				"DisplayName"		"The Ride"
+			}
+			"3"
+			{
+				"Map"		"indiana_adventure3"
+				"DisplayName"		"The Escape"
+			}
+			"4"
+			{
+				"Map"		"indiana_adventure_whole"
+				"DisplayName"		"Freeride"
+			}
+		}
+	}
+	"Diescraper Redux 3.62"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"l4d2_diescraper1_apartment_361"
+				"DisplayName"		"Apartment complex"
+			}
+			"2"
+			{
+				"Map"		"l4d2_diescraper2_streets_361"
+				"DisplayName"		"Downtown military outpost"
+			}
+			"3"
+			{
+				"Map"		"l4d2_diescraper3_mid_361"
+				"DisplayName"		"The Skymall"
+			}
+			"4"
+			{
+				"Map"		"l4d2_diescraper4_top_361"
+				"DisplayName"		"The top suites"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"l4d2_diescraper3_mid_361"
+				"DisplayName"		"The Skymall"
+			}
+			"2"
+			{
+				"Map"		"l4d2_diescraper4_top_361"
+				"DisplayName"		"The top suites"
+			}
+			"3"
+			{
+				"Map"		"l4d2_diescraper4_top_361"
+				"DisplayName"		"The top suites"
+			}
+			"4"
+			{
+				"Map"		"l4d2_diescraper2_streets_361"
+				"DisplayName"		"Downtown military outpost"
+			}
+			"5"
+			{
+				"Map"		"l4d2_diescraper4_top_361"
+				"DisplayName"		"The top suites"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"l4d2_diescraper1_apartment_361"
+				"DisplayName"		"Apartment complex"
+			}
+			"2"
+			{
+				"Map"		"l4d2_diescraper2_streets_361"
+				"DisplayName"		"Downtown military outpost"
+			}
+			"3"
+			{
+				"Map"		"l4d2_diescraper3_mid_361"
+				"DisplayName"		"The Skymall"
+			}
+			"4"
+			{
+				"Map"		"l4d2_diescraper4_top_361"
+				"DisplayName"		"The top suites"
+			}
+			"5"
+			{
+				"Map"		"l4d2_diescraper3_mid_361"
+				"DisplayName"		"The Skymall"
+			}
+			"6"
+			{
+				"Map"		"l4d2_diescraper4_top_361"
+				"DisplayName"		"The top suites"
+			}
+		}
+	}
+	"Left 4 Invasion: Outer Space!"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"map_part1"
+				"DisplayName"		"Episode: 1"
+			}
+			"2"
+			{
+				"Map"		"map_part2"
+				"DisplayName"		"Episode: 2"
+			}
+			"3"
+			{
+				"Map"		"map_part3"
+				"DisplayName"		"Episode: 3"
+			}
+			"4"
+			{
+				"Map"		"map_part4"
+				"DisplayName"		"Episode: 4"
+			}
+			"5"
+			{
+				"Map"		"map_part5"
+				"DisplayName"		"Episode: 5"
+			}
+			"6"
+			{
+				"Map"		"map_part6"
+				"DisplayName"		"Episode: 6"
+			}
+			"7"
+			{
+				"Map"		"map_part7"
+				"DisplayName"		"Episode: 7"
+			}
+			"8"
+			{
+				"Map"		"map_part8"
+				"DisplayName"		"Episode: 8"
+			}
+			"9"
+			{
+				"Map"		"map_part9"
+				"DisplayName"		"Episode: 9"
+			}
+			"10"
+			{
+				"Map"		"map_part10"
+				"DisplayName"		"Episode: 10 (final)"
+			}
+		}
+	}
+	"Deconstruction"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"l4d2_letsbuild_deconstruction"
+				"DisplayName"		"Victory Auto Center"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"l4d2_letsbuild_deconstruction"
+				"DisplayName"		"Victory Auto Center Vs"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"l4d2_letsbuild_deconstruction"
+				"DisplayName"		"Victory Auto Center Survival"
+			}
+			"2"
+			{
+				"Map"		"l4d2_letsbuild_deconstruction"
+				"DisplayName"		"Victory Auto Center Scavenge"
+			}
+		}
+	}
+	"Death from Above"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"m1_beach"
+				"DisplayName"		"Beach"
+			}
+			"2"
+			{
+				"Map"		"m2_burbs"
+				"DisplayName"		"The 'burbs"
+			}
+			"3"
+			{
+				"Map"		"m3_crowd_control"
+				"DisplayName"		"Crowd Control"
+			}
+			"4"
+			{
+				"Map"		"m4_launchpad"
+				"DisplayName"		"Launchpad"
+			}
+			"5"
+			{
+				"Map"		"m5_station_finale"
+				"DisplayName"		"Station Finale"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"m5_station_finale"
+				"DisplayName"		"Station Finale (survival)"
+			}
+		}
+	}
+	"Nach der Untoten"
+	{
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"nazi_zombies3"
+				"DisplayName"		"Nacht der Untoten"
+			}
+		}
+	}
+	"No Mercy: Rehab"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"nmrm1_apartment"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C8M1"
+			}
+			"2"
+			{
+				"Map"		"nmrm2_subway"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C8M2"
+			}
+			"3"
+			{
+				"Map"		"nmrm3_sewers"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C8M3"
+			}
+			"4"
+			{
+				"Map"		"nmrm4_hospital"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C8M4"
+			}
+			"5"
+			{
+				"Map"		"nmrm5_rooftop"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C8M5"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"nmrm1_apartment"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C8M1"
+			}
+			"2"
+			{
+				"Map"		"nmrm2_subway"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C8M2"
+			}
+			"3"
+			{
+				"Map"		"nmrm3_sewers"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C8M3"
+			}
+			"4"
+			{
+				"Map"		"nmrm4_hospital"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C8M4"
+			}
+			"5"
+			{
+				"Map"		"nmrm5_rooftop"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C8M5"
+			}
+		}
+	}
+	"Nomercystorm"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"c8m1_apartment_storm"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C8M1"
+			}
+			"2"
+			{
+				"Map"		"c8m2_subway_storm"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C8M2"
+			}
+			"3"
+			{
+				"Map"		"c8m3_sewers_storm"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C8M3"
+			}
+			"4"
+			{
+				"Map"		"c8m4_interior_storm"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C8M4"
+			}
+			"5"
+			{
+				"Map"		"c8m5_rooftop_storm"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C8M5"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"c8m1_apartment_storm"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C8M1"
+			}
+			"2"
+			{
+				"Map"		"c8m2_subway_storm"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C8M2"
+			}
+			"3"
+			{
+				"Map"		"c8m3_sewers_storm"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C8M3"
+			}
+			"4"
+			{
+				"Map"		"c8m4_interior_storm"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C8M4"
+			}
+			"5"
+			{
+				"Map"		"c8m5_rooftop_storm"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C8M5"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"c8m2_subway_storm"
+				"DisplayName"		"#L4D360UI_LevelName_SURVIVAL_C8M2"
+			}
+			"2"
+			{
+				"Map"		"c8m3_sewers_storm"
+				"DisplayName"		"#L4D360UI_LevelName_SURVIVAL_C8M3"
+			}
+			"3"
+			{
+				"Map"		"c8m4_interior_storm"
+				"DisplayName"		"#L4D360UI_LevelName_SURVIVAL_C8M4"
+			}
+			"4"
+			{
+				"Map"		"c8m5_rooftop_storm"
+				"DisplayName"		"#L4D360UI_LevelName_SURVIVAL_C8M5"
+			}
+			"5"
+			{
+				"Map"		"c8m1_apartment_storm"
+				"DisplayName"		"#L4D360UI_LevelName_SCAVENGE_C8M1"
+			}
+			"6"
+			{
+				"Map"		"c8m5_rooftop_storm"
+				"DisplayName"		"#L4D360UI_LevelName_SCAVENGE_C8M5"
+			}
+			"7"
+			{
+				"Map"		"c8m5_rooftop_storm"
+				"DisplayName"		"#L4D360UI_LevelName_SCAVENGE_C8M5"
+			}
+		}
+	}
+	"Questionable Ethics: Combined"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"qe3_1"
+				"DisplayName"		"Great Reset"
+			}
+			"2"
+			{
+				"Map"		"qe3_2"
+				"DisplayName"		"Illusion of Choice"
+			}
+			"3"
+			{
+				"Map"		"qe3_3"
+				"DisplayName"		"Build Back Better"
+			}
+			"4"
+			{
+				"Map"		"qe3_4"
+				"DisplayName"		"The Problem is Choice"
+			}
+			"5"
+			{
+				"Map"		"qe3_5"
+				"DisplayName"		"Everything That Has a Beginning Has an End"
+			}
+		}
+	}
+	"Redemptionii"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"redemptionII-deadstop"
+				"DisplayName"		"Deadstop"
+			}
+			"2"
+			{
+				"Map"		"redemptionII-plantworks"
+				"DisplayName"		"Cover-up"
+			}
+			"3"
+			{
+				"Map"		"redemptionII-ceda-pt1"
+				"DisplayName"		"Delve Deeper"
+			}
+			"4"
+			{
+				"Map"		"redemptionii-ceda-pt2"
+				"DisplayName"		"The Truth"
+			}
+			"5"
+			{
+				"Map"		"roundhouse"
+				"DisplayName"		"Escape"
+			}
+		}
+	}
+	"Resident Evil 3"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"re3m1"
+				"DisplayName"		"Uptown"
+			}
+			"2"
+			{
+				"Map"		"re3m2"
+				"DisplayName"		"Police Department"
+			}
+			"3"
+			{
+				"Map"		"re3m3"
+				"DisplayName"		"Downtown"
+			}
+			"4"
+			{
+				"Map"		"re3m4"
+				"DisplayName"		"Clock Tower"
+			}
+			"5"
+			{
+				"Map"		"re3m5"
+				"DisplayName"		"Hospital"
+			}
+			"6"
+			{
+				"Map"		"re3m6"
+				"DisplayName"		"Park"
+			}
+			"7"
+			{
+				"Map"		"re3m7"
+				"DisplayName"		"Dead Factory"
+			}
+			"8"
+			{
+				"Map"		"re3m8"
+				"DisplayName"		"The Last Escape"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"re3m1"
+				"DisplayName"		"Uptown"
+			}
+			"2"
+			{
+				"Map"		"re3m3"
+				"DisplayName"		"Downtown"
+			}
+			"3"
+			{
+				"Map"		"re3m4"
+				"DisplayName"		"Clock Tower"
+			}
+			"4"
+			{
+				"Map"		"re3m6"
+				"DisplayName"		"Park"
+			}
+			"5"
+			{
+				"Map"		"re3m7"
+				"DisplayName"		"Dead Factory"
+			}
+			"6"
+			{
+				"Map"		"re3m8"
+				"DisplayName"		"The Last Escape"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"re3m4"
+				"DisplayName"		"Clock Tower"
+			}
+			"2"
+			{
+				"Map"		"re3m5"
+				"DisplayName"		"Hospital"
+			}
+		}
+	}
+	"Sunrise Carnival"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"c2m1_highway_day"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C2M1"
+			}
+			"2"
+			{
+				"Map"		"c2m2_fairgrounds_day"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C2M2"
+			}
+			"3"
+			{
+				"Map"		"c2m3_coaster_day"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C2M3"
+			}
+			"4"
+			{
+				"Map"		"c2m4_barns_day"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C2M4"
+			}
+			"5"
+			{
+				"Map"		"c2m5_concert_day"
+				"DisplayName"		"#L4D360UI_LevelName_COOP_C2M5"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"c2m1_highway_day"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C2M1"
+			}
+			"2"
+			{
+				"Map"		"c2m2_fairgrounds_day"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C2M2"
+			}
+			"3"
+			{
+				"Map"		"c2m3_coaster_day"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C2M3"
+			}
+			"4"
+			{
+				"Map"		"c2m4_barns_day"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C2M4"
+			}
+			"5"
+			{
+				"Map"		"c2m5_concert_day"
+				"DisplayName"		"#L4D360UI_LevelName_VERSUS_C2M5"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"c2m1_highway_day"
+				"DisplayName"		"#L4D360UI_LevelName_SURVIVAL_C2M1"
+			}
+			"2"
+			{
+				"Map"		"c2m5_concert_day"
+				"DisplayName"		"#L4D360UI_LevelName_SURVIVAL_C2M5"
+			}
+		}
+	}
+	"Time to Die"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"l4d2_timemachine_01"
+				"DisplayName"		"Mountain Lab"
+			}
+			"2"
+			{
+				"Map"		"l4d2_timemachine_02"
+				"DisplayName"		"First Paradox"
+			}
+			"3"
+			{
+				"Map"		"l4d2_timemachine_03"
+				"DisplayName"		"Second Paradox"
+			}
+			"4"
+			{
+				"Map"		"l4d2_timemachine_04"
+				"DisplayName"		"Townhouse Finale"
+			}
+		}
+	}
+	"Urban Flight"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map"		"uf1_boulevard"
+				"DisplayName"		"Boulevard"
+			}
+			"2"
+			{
+				"Map"		"uf2_rooftops"
+				"DisplayName"		"Rooftops"
+			}
+			"3"
+			{
+				"Map"		"uf3_harbor"
+				"DisplayName"		"Harbor"
+			}
+			"4"
+			{
+				"Map"		"uf4_airfield"
+				"DisplayName"		"Airfield"
+			}
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map"		"uf1_boulevard"
+				"DisplayName"		"Boulevard (vs)"
+			}
+			"2"
+			{
+				"Map"		"uf2_rooftops"
+				"DisplayName"		"Rooftops (vs)"
+			}
+			"3"
+			{
+				"Map"		"uf3_harbor"
+				"DisplayName"		"Harbor (vs)"
+			}
+			"4"
+			{
+				"Map"		"uf4_airfield"
+				"DisplayName"		"Airfield (vs)"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map"		"uf2_rooftops"
+				"DisplayName"		"Radio Station"
+			}
+			"2"
+			{
+				"Map"		"uf4_airfield"
+				"DisplayName"		"Airfield"
+			}
+			"3"
+			{
+				"Map"		"uf4_airfield"
+				"DisplayName"		"Airfield"
+			}
+		}
+	}
+}
